@@ -2,7 +2,7 @@
 
 🎯 Full Stack Developer | React | Node.js | AWS | UI/UX | DevOps Enthusiast  
 📍 USA | 💬 asrithavemireddy986@gmail.com  
-🌐 [Portfolio](https://spectacular-salamander-260eb8.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/asritha-vemireddy/) | 📁 [Resume](https://raw.githubusercontent.com/ashi1006/ashi1006/main/Asritha%20Vemireddy%20.pdf)
+🌐 [Portfolio](https://spectacular-salamander-260eb8.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/asritha-vemireddy/) | 📁 [Resume](https://github.com/ashi1006/ashi1006/raw/main/Asritha%20Vemireddy.pdf)
 
 ---
 
