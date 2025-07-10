@@ -45,7 +45,6 @@ My specialties include responsive UI/UX, modern JavaScript frameworks (React, An
 
 ## 📈 GitHub Stats
 
-![Asritha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashi1006&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashi1006&layout=compact&theme=radical)
 
 ---
