@@ -8,8 +8,9 @@
 
 ## 🧠 About Me
 
-I'm a results-driven **Full Stack Developer** with 5+ years of experience building scalable, user-centric applications in healthcare and fintech.  
-My specialties include responsive UI/UX, modern JavaScript frameworks (React, Angular), robust backends (Node.js, Spring Boot), and cloud-native deployments using **Azure AKS** and **Docker**.
+I’m a results-driven Full Stack Developer with experience building scalable, user-focused applications in healthcare and financial services.
+Skilled in crafting responsive UIs with React and Angular, developing secure backends using Node.js and Spring Boot, and deploying cloud-native solutions with Docker and Azure AKS.
+Passionate about creating clean, efficient code and contributing to innovative projects that make an impact.
 
 ---
 
