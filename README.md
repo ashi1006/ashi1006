@@ -14,15 +14,17 @@ Passionate about creating clean, efficient code and contributing to innovative p
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack  
 
-- **Frontend:** React, Angular (v9 & v12), TypeScript, TailwindCSS, Redux Toolkit, RxJS, NgRx  
-- **Backend:** Node.js, Spring Boot, Express.js, RESTful & GraphQL APIs, Microservices  
-- **Cloud & DevOps:** Azure AKS, Docker, GitHub Actions, Jenkins  
-- **Security:** OAuth 2.0, JWT, AWS Cognito, Azure AD, HIPAA compliance  
-- **Databases:** MongoDB, PostgreSQL, MySQL, DynamoDB  
-- **Testing:** Jest, React Testing Library, Jasmine, Karma, Postman  
-- **Tools:** Git, Jira, VS Code, Eclipse
+- **Frontend:** React (Hooks, Redux, Context API), TypeScript, JavaScript (ES6+), Angular, TailwindCSS, Chart.js  
+- **Backend:** Python (FastAPI, Flask), Node.js/Express.js, Spring Boot, RESTful APIs, Event-driven workflows, Microservices  
+- **AI/ML Integration:** Generative AI (OpenAI, LangChain), RAG pipelines, NLP, ML model deployment, Real-time inference APIs  
+- **Cloud & DevOps:** AWS (Lambda, S3, EC2, Redshift, Databricks), Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD pipelines  
+- **Security:** OAuth 2.0, JWT, Role-based Access Control, AWS Cognito, Azure AD  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redshift, NoSQL  
+- **Visualization & BI:** Power BI, Plotly, Chart.js  
+- **Testing:** JUnit, Pytest, Jest, React Testing Library, Postman  
+- **Tools & Practices:** Git, Jira, Agile (Scrum), SDLC, TDD/BDD, Client-facing delivery  
 
 ---
 
