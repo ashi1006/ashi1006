@@ -2,7 +2,7 @@
 
 🎯 Software & Automation Engineer | Data Analytics | Cloud Technologies  
 📍 USA | 💬 asrithavemireddy986@gmail.com  
-🌐 [Portfolio](https://spectacular-salamander-260eb8.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/asritha-reddy/) | 📁 [Resume](https://github.com/ashi1006/ashi1006/raw/main/Asritha%20Vemireddy.docx)
+🌐 [Portfolio](https://spectacular-salamander-260eb8.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/asritha-reddy/) | 📁 [Resume](https://github.com/ashi1006/ashi1006/blob/main/Asritha%20Vemireddy.pdf)
 
 ---
 
