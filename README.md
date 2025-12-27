@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Asritha Vemireddy
 
-🎯 Full Stack Developer | React | Node.js | AWS | UI/UX | DevOps Enthusiast  
+🎯 Software & Automation Engineer | Data Analytics | Cloud Technologies  
 📍 USA | 💬 asrithavemireddy986@gmail.com  
 🌐 [Portfolio](https://spectacular-salamander-260eb8.netlify.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/asritha-reddy/) | 📁 [Resume](https://github.com/ashi1006/ashi1006/raw/main/Asritha%20Vemireddy.docx)
 
@@ -8,23 +8,18 @@
 
 ## 🧠 About Me
 
-I’m a results-driven Full Stack Developer with experience building scalable, user-focused applications in healthcare and financial services.
-Skilled in crafting responsive UIs with React and Angular, developing secure backends using Node.js and Spring Boot, and deploying cloud-native solutions with Docker and Azure AKS.
-Passionate about creating clean, efficient code and contributing to innovative projects that make an impact.
+Software and automation engineer with 3+ years of professional experience in software development, process automation, and data analytics within enterprise environments. Currently working as an RPA and data analyst at Fidelity Investments, developing automated workflows using Power Automate Desktop, Python, SQL, Snowflake, PowerShell, and Tableau to support Excel- and Outlook-based financial processes. Previously worked as a software and automation engineer at HCL Technologies, contributing to backend services, automation frameworks, and data transformation tasks in Agile teams. Strong foundation in backend engineering, workflow automation, and data processing, supported by a master’s degree and experience working with international teams.
 
 ---
 
 ## 🔧 Tech Stack  
 
-- **Frontend:** React (Hooks, Redux, Context API), TypeScript, JavaScript (ES6+), Angular, TailwindCSS, Chart.js  
-- **Backend:** Python (FastAPI, Flask), Node.js/Express.js, Spring Boot, RESTful APIs, Event-driven workflows, Microservices  
-- **AI/ML Integration:** Generative AI (OpenAI, LangChain), RAG pipelines, NLP, ML model deployment, Real-time inference APIs  
-- **Cloud & DevOps:** AWS (Lambda, S3, EC2, Redshift, Databricks), Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD pipelines  
-- **Security:** OAuth 2.0, JWT, Role-based Access Control, AWS Cognito, Azure AD  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redshift, NoSQL  
-- **Visualization & BI:** Power BI, Plotly, Chart.js  
-- **Testing:** JUnit, Pytest, Jest, React Testing Library, Postman  
-- **Tools & Practices:** Git, Jira, Agile (Scrum), SDLC, TDD/BDD, Client-facing delivery  
+- **Data Visualization & BI:** Tableau, Power BI, Excel (Advanced formulas, Pivot Tables), Power Query, Reporting Automation  
+- **Programming Languages:** Python, Java, SQL, JavaScript (ES6+), REST APIs, PowerShell, HTML, CSS, React, Angular  
+- **Databases & Data Warehousing:** Snowflake, MySQL, MongoDB, Hive, AWS S3, Azure, ELT, EDA  
+- **Cloud & DevOps:** AWS (EC2, S3, EMR), Azure, Jenkins, Git, Agile (Scrum), SDLC, PyCharm, CI/CD  
+- **Automation & RPA:** Power Automate Desktop, UiPath, Blue Prism, Workflow Scheduling, Excel & Outlook Automation, Exception Handling
+
 
 ---
 
@@ -52,10 +47,10 @@ Passionate about creating clean, efficient code and contributing to innovative p
 
 ---
 
-## 🌱 Currently Learning
-- Kubernetes & Helm
-- Design Patterns in TypeScript
-- Performance Tuning for Large React Apps
+## 🌱 Currently Working On
+- RPA Development & Automation using Power Automate, UiPath, and Blue Prism  
+- Data Analysis & Reporting using Power BI, Excel, and SQL  
+- Workflow Optimization, Process Automation, and Exception Handling for enterprise systems
 
 ---
 
